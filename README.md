@@ -4,3 +4,7 @@ I have been exploring the Solar System and writing some notes about it. So far, 
 
 * Mars
 * Venus
+
+Not yet explored:
+
+* Jupiter
